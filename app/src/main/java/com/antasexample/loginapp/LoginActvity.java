@@ -45,6 +45,9 @@ public class LoginActvity extends AppCompatActivity {
                 final String username = etUsername.getText().toString();
                 final String password = etPassword.getText().toString();
 
+
+
+
                 Response.Listener<String> responseListener = new Response.Listener<String>() {
                     @Override
                     public void onResponse(String response) {
@@ -80,7 +83,14 @@ public class LoginActvity extends AppCompatActivity {
                     }
                 };
 
-                LoginRequest loginRequest = new LoginRequest(username, password, responseListener);
+                String hashas = null;
+                try {
+                    hashas = PasswordHash.doTigerHashCheck(password);
+                } catch (Exception e) {
+                    e.printStackTrace();
+                }
+
+                LoginRequest loginRequest = new LoginRequest(username, hashas, responseListener);
 
                 RequestQueue queue = Volley.newRequestQueue(LoginActvity.this);
                 queue.add(loginRequest);

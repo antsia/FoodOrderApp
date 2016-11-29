@@ -3,111 +3,165 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\antas\Documents\LoginApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jar="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="C:\Users\antas\Documents\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_9400c53f3d595c3228ee00a51431dd6c1a60064c\classes.dex" />
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_babc339de91e10b3a9ebd00ae3816b1b4a7cb74b\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\antas\Documents\LoginApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="C:\Users\antas\Documents\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_49a194a134e2f18d27837387110bd51aafbe2c99\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\antas\Documents\LoginApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="C:\Users\antas\Documents\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e88878495c2656eb8b057728f1bfac4d1ba0796f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\antas\Documents\LoginApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="C:\Users\antas\Documents\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a310cc07f02ae160f865d950ce4b588a81fbe8fd\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\antas\Documents\LoginApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="C:\Users\antas\Documents\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_fa3ff05b3f64dc5cb37f0798123f71a6f3ca8d2a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\antas\Documents\LoginApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="C:\Users\antas\Documents\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_e29590f42b5aa45440c669866e9f4fa3af7bafd6\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\antas\Documents\LoginApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jar="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="C:\Users\antas\Documents\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_505117088d9df3f64a7100396f56346dabca9884\classes.dex" />
+        <dex dex="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_1965dce1f521c77282658874c67de0f5e1049f0d\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\antas\Documents\LoginApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jar="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="C:\Users\antas\Documents\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_05e4afd2562a65df80d075d322c8b554c86b7f60\classes.dex" />
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_287d041204a64d6849a02a7bfcaaf9588ad95439\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_87ca95c710aa1c0b2392d4c2fab18b22a7e5a1aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_287d041204a64d6849a02a7bfcaaf9588ad95439.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_babc339de91e10b3a9ebd00ae3816b1b4a7cb74b.jar" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\antas\Documents\LoginApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="5eadb50563ca3749ff876227ee305f88bec021b1">
-        <dex dex="C:\Users\antas\Documents\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_327145415309f54067546d395f5bba5735ad7c33\classes.dex" />
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_87ca95c710aa1c0b2392d4c2fab18b22a7e5a1aa\classes.dex" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\antas\Documents\LoginApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="C:\Users\antas\Documents\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_67ea186df24747ec3cbeb295e57a1b94585795ce\classes.dex" />
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_b4f0cfdc7955f33be8c84c7d346adaa5e990c172.jar" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\antas\Documents\LoginApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jar="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="C:\Users\antas\Documents\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_7c84dd443bea25406c6da5f4a91456b8df4e223b\classes.dex" />
+        <dex dex="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_b4f0cfdc7955f33be8c84c7d346adaa5e990c172\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e78c465727e0da945cded701eaa011ef3bc7aaf2.jar" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\antas\Documents\LoginApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="40e6291ac617686ce2ac654c8aa0e27b1a3f18eb">
-        <dex dex="C:\Users\antas\Documents\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7dbd4c7437dd298fb3f3fdea8600824c8a802ea7\classes.dex" />
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e78c465727e0da945cded701eaa011ef3bc7aaf2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_86a7e1fd813849bbdfe079809ed5986f1a700a83\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ca84b908ac2a4a81f6db70ec3186c10554f00b4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_86a7e1fd813849bbdfe079809ed5986f1a700a83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_ca84b908ac2a4a81f6db70ec3186c10554f00b4a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_12fd7726d0379289cf940297dc298ece33462226\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_1965dce1f521c77282658874c67de0f5e1049f0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_12fd7726d0379289cf940297dc298ece33462226.jar" />
     </item>
     <item
         is-multidex="true"
@@ -116,52 +170,142 @@
         optimize="true"
         revision="25.0.0"
         sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="C:\Users\antas\Documents\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_030c70ec531e833d9dd0a6234aae65cd3512a17a\classes.dex" />
+        <dex dex="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_030c70ec531e833d9dd0a6234aae65cd3512a17a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\antas\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_030c70ec531e833d9dd0a6234aae65cd3512a17a.jar" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\antas\Documents\LoginApp\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jar="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0bd556d22b7965fb59fb162a281b8f6eaa8715c6">
+        <dex dex="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_dfeffaca47521204d8346e157d600a374a2390b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
-        <dex dex="C:\Users\antas\Documents\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.volley-volley-1.0.0_386b16b6ac4fc94cfb98cda71021d4ca94f5b01e\classes.dex" />
+        <dex dex="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.volley-volley-1.0.0_7c4dfbce9e43d9161b0dc6a19f44312dab540cbf\classes.dex" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\antas\Documents\LoginApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="C:\Users\antas\Documents\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_23aeb6656d28371a788822f8301d7c379ccaba91\classes.dex" />
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_b474af0afda2e7e5a85d07e6ee88f38594484e4d.jar" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\antas\Documents\LoginApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jar="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\antas\Documents\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_252c9af5ad4bdb7e25ced61b50d01051d924f5f7\classes.dex" />
+        <dex dex="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_b474af0afda2e7e5a85d07e6ee88f38594484e4d\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\antas\Documents\LoginApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jar="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="C:\Users\antas\Documents\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_5f80a188828abccb1e618a0040db70c81903346a\classes.dex" />
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_5fb8757678a085ed0b2b11d5ffe9cdd35e6cb29e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\pre-dexed\debug\com.android.volley-volley-1.0.0_7c4dfbce9e43d9161b0dc6a19f44312dab540cbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_5fb8757678a085ed0b2b11d5ffe9cdd35e6cb29e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_4602b13163a96eecf95754d2ec923f26a9145763.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_6c2591adbf85b8c2e6aeac4082e97a9809382008.jar" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\antas\Documents\LoginApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jar="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="C:\Users\antas\Documents\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_c8f5935e228f25a2894bd123346c21b31861434f\classes.dex" />
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_6c2591adbf85b8c2e6aeac4082e97a9809382008\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_91cfa41701737dd530f1a32824b1950ffb9d9fd8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_4602b13163a96eecf95754d2ec923f26a9145763\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_91cfa41701737dd530f1a32824b1950ffb9d9fd8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25b5c3e0701f4a3ad2a2bbbee15d9df6cd0f5843">
+        <dex dex="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0294f162113bb76dd54f818a5ed626a4675718ca\classes.dex" />
     </item>
 
 </items>
