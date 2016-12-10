@@ -23,6 +23,9 @@ public class LoginActvity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login_actvity);
 
+        setTitle("Prisijungimas");
+
+
         final EditText etUsername = (EditText) findViewById(R.id.etUsername);
         final EditText etPassword = (EditText) findViewById(R.id.etPassword);
 

@@ -21,7 +21,7 @@
         android:id="@+id/etName"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
-        android:hint="Name" />
+        android:hint="Vardas" />
 
     <EditText
         android:layout_width="wrap_content"
@@ -34,7 +34,7 @@
         android:id="@+id/etUsername"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
-        android:hint="Username" />
+        android:hint="Vartotojo vardas" />
 
     <EditText
         android:layout_width="wrap_content"
@@ -47,7 +47,7 @@
         android:id="@+id/etAge"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
-        android:hint="Age" />
+        android:hint="Amžius" />
 
     <EditText
         android:layout_width="wrap_content"
@@ -60,14 +60,15 @@
         android:layout_alignParentStart="true"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
-        android:hint="Password" />
+        android:hint="Slaptažodis" />
 
     <Button
-        android:text="Register"
+        android:text="Registruotis"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@+id/etAge"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="18dp"
         android:id="@+id/bRegister" />
+
 </RelativeLayout>

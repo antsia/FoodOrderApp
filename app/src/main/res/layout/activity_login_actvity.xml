@@ -21,10 +21,10 @@
         android:id="@+id/etUsername"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
-        android:hint="Username" />
+        android:hint="Prisijungimo vardas" />
 
     <Button
-        android:text="Login"
+        android:text="Prisijungti"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@+id/etPassword"
@@ -44,10 +44,10 @@
         android:layout_marginTop="12dp"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
-        android:hint="Password" />
+        android:hint="Slaptažodis" />
 
     <TextView
-        android:text="Register here"
+        android:text="Registruotis"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@+id/bLogin"
