@@ -30,11 +30,14 @@ public class LoginActvity extends AppCompatActivity {
         final EditText etPassword = (EditText) findViewById(R.id.etPassword);
 
         final Button bLogin = (Button) findViewById(R.id.bLogin);
+
+
         final TextView registerLink = (TextView) findViewById(R.id.tvRegister);
 
         registerLink.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+
                 Intent registerIntent = new Intent(LoginActvity.this, RegisterActivity.class);
                 LoginActvity.this.startActivity(registerIntent);
 
@@ -64,7 +67,7 @@ public class LoginActvity extends AppCompatActivity {
                                 String name = jsonResponse.getString("name");
                                 int age = jsonResponse.getInt("age");
 
-                                Intent intent = new Intent(LoginActvity.this, UserAreaActivity.class);
+                                Intent intent = new Intent(LoginActvity.this, MainActivity.class);
                                 intent.putExtra("name", name);
                                 intent.putExtra("username", username);
                                 intent.putExtra("age", age);

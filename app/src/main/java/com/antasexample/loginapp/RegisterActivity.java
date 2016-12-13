@@ -22,7 +22,7 @@ public class RegisterActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_register);
 
-
+        setTitle("Registracija");
 
 
         final EditText etAge = (EditText) findViewById(R.id.etAge);

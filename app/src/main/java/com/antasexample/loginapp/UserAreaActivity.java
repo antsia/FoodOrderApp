@@ -13,6 +13,8 @@ public class UserAreaActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_user_area);
 
+        setTitle("FoodLife inc.");
+
 
         final EditText etUsername = (EditText) findViewById(R.id.etUsername);
         final EditText etAge = (EditText) findViewById(R.id.etAge);
@@ -24,7 +26,7 @@ public class UserAreaActivity extends AppCompatActivity {
         String username = intent.getStringExtra("username");
         int age = intent.getIntExtra("age", -1);
 
-        String message = name + " Sveiki atvykę! ^^";
+        String message = name + " Sveiki atvykę!";
         welcomeMessage.setText(message);
         etUsername.setText(username);
         etAge.setText(age + "");
