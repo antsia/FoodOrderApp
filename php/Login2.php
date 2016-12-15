@@ -6,7 +6,7 @@
     $username = $_POST["username"];
     $password = $_POST["password"];
     
-    $statement = mysqli_prepare($con, "SELECT * FROM Ausers WHERE username = ?");
+    $statement = mysqli_prepare($con, "SELECT * FROM users WHERE username = ?");
     mysqli_stmt_bind_param($statement, "s", $username);
     mysqli_stmt_execute($statement);
     mysqli_stmt_store_result($statement);
