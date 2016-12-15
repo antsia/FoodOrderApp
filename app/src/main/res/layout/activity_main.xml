@@ -16,7 +16,9 @@
         android:layout_height="wrap_content"
         android:id="@+id/bOrder"
         android:layout_above="@+id/bEdit"
-        android:layout_centerHorizontal="true" />
+        android:layout_centerHorizontal="true"
+        android:onClick="parseJSON"
+        />
 
     <Button
         android:text="Atsijungti"
