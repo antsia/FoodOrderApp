@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
 
         setTitle("Sveiki!");
 
-        final Button bOrder = (Button) findViewById(R.id.bOrder);
+        //final Button bOrder = (Button) findViewById(R.id.bOrder);
         final Button bEdit = (Button) findViewById(R.id.bEdit);
         final Button bLogout = (Button) findViewById(R.id.bLogout);
 

@@ -22,7 +22,7 @@ public class DisplayListView extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.display_listview_layout);
         listView = (ListView) findViewById(R.id.listview);
-
+        setTitle("Patiekalų kategorijos");
         categoryAdapter = new CategoryAdapter(this, R.layout.row_layout);
         listView.setAdapter(categoryAdapter);
         json_string = getIntent().getExtras().getString("json_data");

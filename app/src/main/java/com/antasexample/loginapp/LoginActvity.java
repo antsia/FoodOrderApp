@@ -102,6 +102,13 @@ public class LoginActvity extends AppCompatActivity {
                 queue.add(loginRequest);
             }
         });
+        onBackPressed();
+    }
 
+    @Override
+    public void onBackPressed() {
+        // super.onBackPressed(); commented this line in order to disable back press
+        //Write your code here
+        //Toast.makeText(getApplicationContext(), "Išeiti negalima!", Toast.LENGTH_SHORT).show();
     }
 }

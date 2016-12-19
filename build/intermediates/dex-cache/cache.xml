@@ -106,7 +106,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="d9f7a4ea7d8067b80285162d79d19893a6e8ac9d">
+        sha1="1e08234b7888bf79d25e11fd626198425b4f0c56">
         <dex dex="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_dfeffaca47521204d8346e157d600a374a2390b0\classes.dex" />
     </item>
     <item
@@ -178,7 +178,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="68c4ee82aa5d8ad1d63cabee5441d1e3f33363c0">
+        sha1="7a65702770cae25224b0067ef3e8ce073007d6e1">
         <dex dex="C:\Users\antas\Documents\git\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0294f162113bb76dd54f818a5ed626a4675718ca\classes.dex" />
     </item>
 
